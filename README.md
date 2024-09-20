@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badgeColor=FF00F6&color:FFF" height="35" alt="instagram logo" />
 </a>
   <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="/getimg_ai-2024-09-20T04_18_24.368Z.png" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100012302259932&mibextid=ZbWKwL" >
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
