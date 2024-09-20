@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="/getimg_ai-2024-09-20T04_18_24.368Z.png" style="border-radius: 15px; border: 2px solid #8A2BE2; object-fit: cover; width: 250px; height: 250px;" />
+<img align="right" height="150" src="/getimg_ai-2024-09-20T04_18_24.368Z.png" style="border-radius: 15px; border: 2px solid #8A2BE2; object-fit: cover; width: 350px; height: 350px;" />
 
 
 ###
