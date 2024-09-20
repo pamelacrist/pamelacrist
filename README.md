@@ -25,8 +25,8 @@
 👨‍👩‍👧‍👦 No meu tempo livre gosto de passeios com a familia</br>
 📘 Gosto de ler Ficção científica, Terror e Romance (Bem diversificado, eu diria 🙈) </br>
 </p>
-<h4> Tecnologias e Ferramentas</h4>
 <h4> Eu ja trabalhei com</h4>
+<div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="border-radius: 50%;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="border-radius: 50%;" />
@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" style="border-radius: 50%;" />
   <img width="12" />
+</div>
+ 
 
 
 ###
