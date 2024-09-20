@@ -16,14 +16,18 @@
 
 ###
 
-<h2 align="left">Olá!  👋 Sou Pâmela, formada em Análise e Desenvolvimento de Sistemas. Tenho uma paixão por tecnologia, adoro aprender novas linguagens de programação e estou sempre em busca de desafios que me permitam crescer profissionalmente. Nos momentos de lazer, gosto de mergulhar em um bom livro e escutar música, que me ajudam a manter a criatividade e o foco.</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="border-radius: 50%;" />
+<h2 align="left">Olá! me chamo Pâmela </h2>
+<h4> Sobre Mim</h4>
+<p>
+👩‍💻 Eu sou desenvolvedora Fullstack</br>
+👩‍🎓 Formada em Análise e desenvolvimento de Sistema</br>
+🛸 Tenho interesse em explorar sobre Ufologia</br>
+👨‍👩‍👧‍👦 No meu tempo livre gosto de passeios com a familia</br>
+📘 Gosto de ler Ficção científica, Terror e Romance (Bem diversificado, eu diria 🙈) </br>
+</p>
+<h4> Tecnologias e Ferramentas</h4>
+<h4> Eu ja trabalhei com</h4>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="border-radius: 50%;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="border-radius: 50%;" />
   <img width="12" />
@@ -33,16 +37,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="border-radius: 50%;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" style="border-radius: 50%;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" style="border-radius: 50%;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" style="border-radius: 50%;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" style="border-radius: 50%;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" style="border-radius: 50%;" />
-</div>
+
 
 ###
 
