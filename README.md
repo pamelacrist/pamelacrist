@@ -2,7 +2,7 @@
  <a href="https://www.instagram.com/pamela_rodriigues18?igsh=eWFnY3dieXpqeTd1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badgeColor=FF00F6&color:FFF" height="35" alt="instagram logo" />
 </a>
-  <a href="" >
+  <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100012302259932&mibextid=ZbWKwL" >
