@@ -1,17 +1,18 @@
 <div align="center">
  <a href="https://www.instagram.com/pamela_rodriigues18?igsh=eWFnY3dieXpqeTd1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badgeColor=FF00F6&color:FFF" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badgeColor=FF00F6&color:FFF" height="35" alt="instagram logo" />
 </a>
   <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100012302259932&mibextid=ZbWKwL" >
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/vetores-gratis/linda-garota-gamer-jogando-computador-cartoon-vector-icon-ilustracao-conceito-de-icone-de-tecnologia-de-pessoas-isolado-vetor-premium-estilo-flat-cartoon_138676-3985.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724198400&semt=ais_hybrid"  />
+<img align="right" height="150" src="https://img.freepik.com/vetores-gratis/linda-garota-gamer-jogando-computador-cartoon-vector-icon-ilustracao-conceito-de-icone-de-tecnologia-de-pessoas-isolado-vetor-premium-estilo-flat-cartoon_138676-3985.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724198400&semt=ais_hybrid" style="border-radius: 15px; border: 2px solid #8A2BE2; object-fit: cover; width: 150px; height: 150px;" />
+
 
 ###
 
