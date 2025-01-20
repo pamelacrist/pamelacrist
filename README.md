@@ -16,14 +16,27 @@
 
 ###
 
-<h2 align="left">Olá! me chamo Pâmela </h2>
-<h4> Sobre Mim</h4>
+<h2 align="left">Olá! Me chamo Pâmela 👋</h2>
+
+<h4>Sobre Mim</h4>
 <p>
-👩‍💻 Eu sou desenvolvedora Fullstack</br>
-👩‍🎓 Formada em Análise e desenvolvimento de Sistema</br>
-🛸 Tenho interesse em explorar sobre Ufologia</br>
-👨‍👩‍👧‍👦 No meu tempo livre gosto de passeios com a familia</br>
-📘 Gosto de ler Ficção científica, Terror e Romance (Bem diversificado, eu diria 🙈) </br>
+👩‍💻 Desenvolvedora Fullstack, apaixonada por criar soluções tecnológicas que fazem a diferença.</br>
+🎓 Graduada em Análise e Desenvolvimento de Sistemas.</br>
+🚀 Com interesse especial em desenvolvimento web, APIs e integração de sistemas.</br>
+📚 Sempre aprendendo algo novo, atualmente explorando tecnologias como React, Node.js e Python.</br>
+</p>
+
+<h4>Interesses Pessoais</h4>
+<p>
+🛸 Fascinada por Ufologia e mistérios do universo.</br>
+📖 Leitora assídua de ficção científica, terror e romance (um mix bem interessante, não acha?).</br>
+👨‍👩‍👧‍👦 Adoro passar meu tempo livre com a família e explorar lugares novos.</br>
+</p>
+
+<h4>Vamos Conectar?</h4>
+<p>
+📫 Entre em contato: pamelacrist219@gmail.com</br>
+💼 LinkedIn: (https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/)</br>
 </p>
 <h4> Eu ja trabalhei com</h4>
 <div>
