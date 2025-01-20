@@ -35,9 +35,10 @@
 
 <h4>Vamos Conectar?</h4>
 <p>
-📫 Entre em contato: pamelacrist219@gmail.com</br>
-💼 LinkedIn: (https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/)</br>
+📫 Entre em contato: <a href="mailto:pamelacrist219@gmail.com" target="_blank">pamelacrist219@gmail.com</a></br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/" target="_blank">LinkedIn - Pâmela Cristina</a></br>
 </p>
+
 <h4> Eu ja trabalhei com</h4>
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="border-radius: 50%;" />
